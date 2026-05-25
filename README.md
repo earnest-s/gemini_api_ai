@@ -45,8 +45,8 @@ A modern, responsive AI chatbot application powered by Google's Gemini AI model.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd ai-chatbot
+   git clone https://github.com/earnest-s/LLM-API-wrapper-stylish-frontend
+   cd LLM-API-wrapper-stylish-frontend
    ```
 
 2. **Install dependencies**
